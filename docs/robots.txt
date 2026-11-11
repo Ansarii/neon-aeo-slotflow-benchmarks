@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ansarii.github.io/neon-aeo-slotflow-benchmarks/sitemap.xml
